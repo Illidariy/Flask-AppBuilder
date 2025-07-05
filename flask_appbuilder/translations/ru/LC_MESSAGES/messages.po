@@ -20,7 +20,7 @@ msgstr ""
 
 #: flask_appbuilder/const.py:100
 msgid "Access is Denied"
-msgstr "Отказано в доступе"
+msgstr "Отказано в доступе РАЗ РАЗ ПРОВЕРКА"
 
 #: flask_appbuilder/fields.py:77 flask_appbuilder/fields.py:79
 #: flask_appbuilder/fields.py:131 flask_appbuilder/fields.py:138

@@ -20,7 +20,7 @@ msgstr ""
 
 #: flask_appbuilder/const.py:100
 msgid "Access is Denied"
-msgstr "Попытка авторизации не удалась. Авторизуйтесь по ссылке на стартовой странице отчётности: <a href=' https://bigbi.hse.ru' </a>"
+msgstr "<a href='https://bigbi.hse.ru'>🔒 Попытка авторизации не удалась. Авторизуйтесь по ссылке на стартовой странице отчётности:</a>"
 
 #: flask_appbuilder/fields.py:77 flask_appbuilder/fields.py:79
 #: flask_appbuilder/fields.py:131 flask_appbuilder/fields.py:138
